@@ -1,0 +1,7 @@
+*node_modules
+*.npmrc
+*.yarnrc
+
+#Ignore ENV files
+.env
+*.env
